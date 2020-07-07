@@ -1,7 +1,7 @@
 {
-  "name": "DailyQustionsOfMountainGun",
+  "name": "daily-qustion-js",
   "version": "1.0.0",
-  "description": "炮之每日一问",
+  "description": "js每日多问",
   "main": "index.js",
   "scripts": {
     "build:js": "rollup --config ./practice-env/js-env/rollup.config.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun.git"
+    "url": "git+https://github.com/xiaotangdou/daily-qustion-js.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun/issues"
+    "url": "https://github.com/xiaotangdou/daily-qustion-js/issues"
   },
-  "homepage": "https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun#readme",
+  "homepage": "https://github.com/xiaotangdou/daily-qustion-js#readme",
   "dependencies": {
     "@babel/core": "^7.10.2",
     "babel": "^6.23.0"
