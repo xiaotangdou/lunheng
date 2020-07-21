@@ -1,1 +1,1 @@
-- [实现一个webpack启动器函数](https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun/issues/1)
+- [实现一个 webpack 启动器函数]()
