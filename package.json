@@ -1,23 +1,24 @@
 {
-  "name": "daily-qustion-js",
+  "name": "lunheng",
   "version": "1.0.0",
-  "description": "js每日多问",
+  "description": "积累",
   "main": "index.js",
   "scripts": {
     "build:js": "rollup --config ./practice-env/js-env/rollup.config.js",
+    "gen": "node ./scripts/gen-template/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiaotangdou/daily-qustion-js.git"
+    "url": "git+https://github.com/xiaotangdou/lunheng.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xiaotangdou/daily-qustion-js/issues"
+    "url": "https://github.com/xiaotangdou/lunheng/issues"
   },
-  "homepage": "https://github.com/xiaotangdou/daily-qustion-js#readme",
+  "homepage": "https://github.com/xiaotangdou/lunheng#readme",
   "dependencies": {
     "@babel/core": "^7.10.2",
     "babel": "^6.23.0"
